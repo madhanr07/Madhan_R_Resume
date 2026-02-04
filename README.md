@@ -17,15 +17,6 @@ apply problem-solving and development skills in real-world applications.
 
 ---
 
-## EDUCATION
-
-**Bachelor of Computer Science and Engineering**  
-Sri Krishna College of Technology, Coimbatore  
-*2023 – 2027 (Expected)*  
-**CGPA:** 7.53 / 10  
-
----
-
 ## TECHNICAL SKILLS
 
 **Programming Languages**
@@ -51,6 +42,20 @@ Sri Krishna College of Technology, Coimbatore
 
 ---
 
+## INTERNSHIP
+
+### Python with AI Intern  
+**LITZ Tech Pvt. Ltd., Coimbatore**  
+*May 2025 – June 2025*
+
+- Gained hands-on experience in **Python and AI fundamentals**, completing **3+ machine
+  learning mini-projects**, including **computer vision models** (object detection and
+  image classification) using **OpenCV and TensorFlow**.
+- Designed and implemented a **Tic-Tac-Toe AI** using the **Minimax algorithm**, achieving
+  **100% optimal move accuracy** and automated decision-making across all game states.
+
+---
+
 ## ACADEMIC PROJECTS
 
 ### Online Certificate Request Portal System (Full Stack)
@@ -61,21 +66,21 @@ Sri Krishna College of Technology, Coimbatore
   approvals, and user data efficiently.
 - Designed role-based access control for students and administrators to submit, view,
   and approve certificate requests.
-- Used Git and GitHub for version control and effective project management.
 
-### Interactive Yoga Academy Portal (REST API)
+---
 
-- Developed RESTful APIs to support core functionalities of an interactive yoga academy
-  platform.
-- Implemented backend services using Spring Boot to handle user data, course
-  information, and enrollments.
-- Integrated MySQL database and tested APIs using tools such as Postman.
+## EDUCATION
+
+**Bachelor of Computer Science and Engineering**  
+Sri Krishna College of Technology, Coimbatore  
+*2023 – 2027 (Expected)*  
+**CGPA:** 7.53 / 10
 
 ---
 
 ## CERTIFICATIONS
 
-- Python Essentials – CISCO Networking Academy
-- Java Foundation Certification – Infosys Springboard
-- React Web Developer Certification – Infosys Springboard
+- Python Essentials – CISCO Networking Academy  
+- Java Foundation Certification – Infosys Springboard  
+- React Web Developer Certification – Infosys Springboard  
 - Computer Networks and Network Security – Coursera (IBM)
